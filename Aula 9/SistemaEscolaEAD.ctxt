@@ -1,0 +1,12 @@
+#BlueJ class context
+#Wed Sep 30 10:26:10 BRT 2026
+comment0.target=SistemaEscolaEAD
+comment1.target=SistemaEscolaEAD()
+comment2.target=void cadastrarCursos()
+comment3.target=void cadastrarAlunosIniciais()
+comment4.target=void iniciar()
+comment5.target=void adicionarAluno()
+comment6.target=void exibirCursos()
+comment7.target=void verificarNotas()
+comment8.target=void verificarFinanceiro()
+numComments=9
